@@ -1,3 +1,8 @@
+#### Step 1 : npm install
+#### Step 2 : npm install --save react react-dom
+#### Step 3 : npm install --save react-bootstrap
+#### Step 4 : npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
