@@ -1,0 +1,2 @@
+﻿1.npm start ครับ
+2.อาจจะต้องเปิดเน็ตด้วยเพราะผม link css จาก bootstrap 
